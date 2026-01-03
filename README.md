@@ -41,9 +41,6 @@ MenuDrivenCProject/
 ## ⚙️ How to Compile and Run
 Open terminal in the project folder and run:
 
-```bash
-gcc menu_program.c -o menu
-./menu
 
-## Author
+##Author
 Vishal Kumar
