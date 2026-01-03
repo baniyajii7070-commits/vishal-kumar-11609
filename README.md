@@ -42,5 +42,8 @@ MenuDrivenCProject/
 Open terminal in the project folder and run:
 
 
-##Author
+
+## Author
+
 Vishal Kumar
+
